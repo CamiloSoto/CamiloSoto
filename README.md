@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilosoto&label=Profile%20views&color=0e75b6&style=flat" alt="camilosoto" /> </p>
 
-- 🔭 I’m currently working on [cscorp barbershop](https://github.com/imCsCorp/barber-shop)
+- 🔭 I’m currently working on [Letra de Cambio]([https://github.com/imCsCorp/barber-shop](https://github.com/CamiloSoto/letra-de-cambio))
 
 - 👨‍💻 All of my projects are available at [https://github.com/CamiloSoto](https://github.com/CamiloSoto)
 
-- 💬 Ask me about **react,react-native,angular,nestjs, springboot**
+- 💬 Ask me about **react,Angular,nestjs, springboot, .Net**
 
 - 📫 How to reach me **alejandro.vega.lims@gmail.com**
 
